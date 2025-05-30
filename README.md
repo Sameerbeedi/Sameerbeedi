@@ -9,6 +9,7 @@ I’m a Computer Science student currently in the 6th semester of my B.Tech degr
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:sameerbeedi29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/sameer-beedi-50a23b299/)
 [![Phone](https://img.shields.io/badge/Phone-9380463538-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20)](tel:+919380463538)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit%20site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mu-nine-53.vercel.app/)
 
 ---
 
