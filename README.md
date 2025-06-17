@@ -1,4 +1,5 @@
 # About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Sameerbeedi&style=flat-square&color=brightgreen)
 
 I’m a Computer Science student currently in the 7th semester of my B.Tech degree. I’m particularly interested in machine learning, with a strong focus on deep learning and generative AI.<br><br> I enjoy exploring and working on projects in these areas, and I'm always open to collaborating on anything related to machine learning. I have the most experience in deep learning, and I'm continually building my knowledge in related domains. <br><br>Outside of academics, I love playing cricket and singing, which help me stay balanced and creative.
 
