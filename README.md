@@ -11,6 +11,7 @@ I’m a Computer Science student currently in the 7th semester of my B.Tech degr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/sameer-beedi-50a23b299/)
 [![Phone](https://img.shields.io/badge/Phone-9380463538-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20)](tel:+919380463538)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit%20site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mu-nine-53.vercel.app/)
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/pIFjXhYC60/)
 
 ---
 
