@@ -17,7 +17,7 @@ I’m a Computer Science student currently in the 7th semester of my B.Tech degr
 
 # 📊 GitHub Stats
 
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerbeedi&show_icons=true&theme=radical&rank_icon=github)<br>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerbeedi&layout=compact&theme=radical)
 
 ---
